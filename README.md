@@ -235,7 +235,7 @@ metadata/
 
 A Vision-Language workflow combines image understanding and language generation to analyze screenshots and generate structured outputs.
 
-## Workflow
+## Workflow :
 
 ```
 Data Collection
@@ -255,11 +255,57 @@ Evaluation
 Inference
 ```
 
-### 6. Training
+## Steps :
+
+### 1. Dataset Collection
+
+- Collect customer support screenshots
+- Collect ticket screenshots
+- Generate synthetic screenshots
+
+### 2.Synthetic Data Generation
+
+- Generate realistic customer support scenarios to:
+- Increase dataset size
+- Cover rare edge cases
+- Improve model generalization
+
+### 3. Exploratory Data Analysis (EDA)
+
+- Analyze screenshot quality
+- Explore issue distributions
+- Review annotation consistency
+
+### 4. Data Preprocessing
+
+- Resize screenshots
+- Normalize images
+- Validate image formats
+
+### 5. Annotation
+
+Create labels for:
+
+- Summary
+- Issue Type
+- Priority
+- Suggested Response
+
+### 6. Fine-Tuning
+
+Apply:
+
+```text
+LoRA / QLoRA
+```
+
+on Gemma 4 Vision.
+
+### 7. Training
 
 Train the model to understand screenshots and generate structured outputs.
 
-### 7. Saving Model
+### 8. Saving Model
 
 Saved in:
 
@@ -267,7 +313,7 @@ Saved in:
 outputs/lora_adapter/
 ```
 
-### 8. Inference Layer
+### 9. Inference Layer
 
 ```text
 User Screenshot
