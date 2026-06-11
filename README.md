@@ -2,32 +2,31 @@
 
 ---
 
-✒️ **Author:** Salma Hamdun | **Date:** 2026 | **Version:** 1.0
+✒️ **Author:** Salma Hamdun | **Date:** 11/6/2026 | **Version:** 1.0
 
 ---
 
-# 📑 Table of Contents
+## 📑 Table of Contents
 
-- [🤖 Demo](#-Demo-)
-- [📌 Project Overview & Introduction](#1-Project-Overview-&-Introduction)
-- [📋 Prerequisites](#2-Prerequisites)
-- [📚 Libraries](#3-Libraries)
-- [🖼️ Dataset Structure](#4-Dataset-Structure)
-- [🚀 Vision-Language Workflow](#5-Vision-Language-Workflow)
-- [🏗️ System Architecture](#6-System-Architecture)
-- [📂 Project Structure](#7-Project-Structure)
-- [🧠 Model Information](#8-Model-Information)
-- [🔍 Screenshot Analysis Pipeline](#9-Screenshot-Analysis-Pipeline)
-- [💻 Web Interface (Gradio)](<10-#Web-Interface-(Gradio)%3E>)
-- [📊 Evaluation Pipeline](#11-Evaluation-Pipeline)
-- [⚙️ Environment Setup](#12-Environment-Setup)
-- [📦 Requirements](#13-Requirements)
-- [🎯 Development Plan](#14-Development-Plan)
-- [🧠 Transformer & VLM Concepts Applied](#15-Transformer-&-VLM-Concepts-Applied)
-- [🎯 First Coding Goals](#16-First-Coding-Goals)
-- [✅ Expected Final Result](#17-Expected-Final-Result)
-- [🔮 Future Improvements](#18-Future-Improvements)
-- [📌 Final Notes](#19-Final-Notes)
+- [🤖 Demo](#-demo)
+- [📌 Project Overview & Introduction](#1-project-overview--introduction)
+- [📋 Prerequisites](#2-prerequisites)
+- [📚 Libraries](#3-libraries)
+- [💬 Dataset Structure](#4-dataset-structure)
+- [🚀 LLM Workflow](#5llm-workflow)
+- [📂 Project Structure](#6project-structure)
+- [🧠 Model Information](#7-model-information)
+- [🧩 Inference Module](#8-inference-module)
+- [💻 Web Chatbot (Gradio)](#9-web-chatbot-gradio)
+- [📊 Evaluation Pipeline](#10-evaluation-pipeline)
+- [⚙️ Environment Setup](#11-environment-setup)
+- [📦 Requirements](#12-requirements)
+- [🎯 Development Plan](#13-development-plan)
+- [🧠 Transformer Concepts Applied](#14-transformer-concepts-applied)
+- [🎯 First Coding Goals](#15-first-coding-goals)
+- [✅ Expected Final Result](#16-expected-final-result)
+- [🔮 Future Improvements](#17-future-improvements)
+- [📌 Final Notes](#18-final-notes)
 
 ---
 
