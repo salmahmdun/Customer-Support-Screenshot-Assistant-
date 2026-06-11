@@ -2,7 +2,7 @@
 
 ---
 
-✒️ **Author:** Salma Hamdun | **Date:** 11/6/2026 | **Version:** 1.0
+✒️ **Author:** Salma Hamdun | **Date:** 2026 | **Version:** 1.0
 
 ---
 
@@ -12,21 +12,22 @@
 - [📌 Project Overview & Introduction](#1-project-overview--introduction)
 - [📋 Prerequisites](#2-prerequisites)
 - [📚 Libraries](#3-libraries)
-- [💬 Dataset Structure](#4-dataset-structure)
-- [🚀 LLM Workflow](#5llm-workflow)
-- [📂 Project Structure](#6project-structure)
-- [🧠 Model Information](#7-model-information)
-- [🧩 Inference Module](#8-inference-module)
-- [💻 Web Chatbot (Gradio)](#9-web-chatbot-gradio)
-- [📊 Evaluation Pipeline](#10-evaluation-pipeline)
-- [⚙️ Environment Setup](#11-environment-setup)
-- [📦 Requirements](#12-requirements)
-- [🎯 Development Plan](#13-development-plan)
-- [🧠 Transformer Concepts Applied](#14-transformer-concepts-applied)
-- [🎯 First Coding Goals](#15-first-coding-goals)
-- [✅ Expected Final Result](#16-expected-final-result)
-- [🔮 Future Improvements](#17-future-improvements)
-- [📌 Final Notes](#18-final-notes)
+- [🖼️ Dataset Structure](#4-dataset-structure)
+- [🚀 Vision-Language Workflow](#5-vision-language-workflow)
+- [🏗️ System Architecture](#6-system-architecture)
+- [📂 Project Structure](#7-project-structure)
+- [🧠 Model Information](#8-model-information)
+- [🔍 Screenshot Analysis Pipeline](#9-screenshot-analysis-pipeline)
+- [💻 Web Interface (Gradio)](#10-web-interface-gradio)
+- [📊 Evaluation Pipeline](#11-evaluation-pipeline)
+- [⚙️ Environment Setup](#12-environment-setup)
+- [📦 Requirements](#13-requirements)
+- [🎯 Development Plan](#14-development-plan)
+- [🧠 Transformer & VLM Concepts Applied](#15-transformer--vlm-concepts-applied)
+- [🎯 First Coding Goals](#16-first-coding-goals)
+- [✅ Expected Final Result](#17-expected-final-result)
+- [🔮 Future Improvements](#18-future-improvements)
+- [📌 Final Notes](#19-final-notes)
 
 ---
 
