@@ -8,26 +8,26 @@
 
 # 📑 Table of Contents
 
-- 🤖 Demo
-- 📌 Project Overview & Introduction
-- 📋 Prerequisites
-- 📚 Libraries
-- 🖼️ Dataset Structure
-- 🚀 Vision-Language Workflow
-- 🏗️ System Architecture
-- 📂 Project Structure
-- 🧠 Model Information
-- 🔍 Screenshot Analysis Pipeline
-- 💻 Web Interface (Gradio)
-- 📊 Evaluation Pipeline
-- ⚙️ Environment Setup
-- 📦 Requirements
-- 🎯 Development Plan
-- 🧠 Transformer & VLM Concepts Applied
-- 🎯 First Coding Goals
-- ✅ Expected Final Result
-- 🔮 Future Improvements
-- 📌 Final Notes
+- [🤖 Demo]
+- [📌 Project Overview & Introduction]
+- [📋 Prerequisites]
+- [📚 Libraries]
+- [🖼️ Dataset Structure]
+- [🚀 Vision-Language Workflow]
+- [🏗️ System Architecture]
+- [📂 Project Structure]
+- [🧠 Model Information]
+- [🔍 Screenshot Analysis Pipeline]
+- [💻 Web Interface (Gradio)]
+- [📊 Evaluation Pipeline]
+- [⚙️ Environment Setup]
+- [📦 Requirements]
+- [🎯 Development Plan]
+- [🧠 Transformer & VLM Concepts Applied]
+- [🎯 First Coding Goals]
+- [✅ Expected Final Result]
+- [🔮 Future Improvements]
+- [📌 Final Notes]
 
 ---
 
