@@ -8,26 +8,26 @@
 
 # 📑 Table of Contents
 
-- [🤖 Demo]
-- [📌 Project Overview & Introduction]
-- [📋 Prerequisites]
-- [📚 Libraries]
-- [🖼️ Dataset Structure]
-- [🚀 Vision-Language Workflow]
-- [🏗️ System Architecture]
-- [📂 Project Structure]
-- [🧠 Model Information]
-- [🔍 Screenshot Analysis Pipeline]
-- [💻 Web Interface (Gradio)]
-- [📊 Evaluation Pipeline]
-- [⚙️ Environment Setup]
-- [📦 Requirements]
-- [🎯 Development Plan]
-- [🧠 Transformer & VLM Concepts Applied]
-- [🎯 First Coding Goals]
-- [✅ Expected Final Result]
-- [🔮 Future Improvements]
-- [📌 Final Notes]
+- [🤖 Demo](#Demo)
+- [📌 Project Overview & Introduction](#Project-Overview-&-Introduction)
+- [📋 Prerequisites](#Prerequisites)
+- [📚 Libraries](#Libraries)
+- [🖼️ Dataset Structure](#Dataset-Structure)
+- [🚀 Vision-Language Workflow](#Vision-Language-Workflow)
+- [🏗️ System Architecture](#System-Architecture)
+- [📂 Project Structure](#Project-Structure)
+- [🧠 Model Information](#Model-Information)
+- [🔍 Screenshot Analysis Pipeline](#Screenshot-Analysis-Pipeline)
+- [💻 Web Interface (Gradio)](<#Web-Interface-(Gradio)>)
+- [📊 Evaluation Pipeline](#Evaluation-Pipeline)
+- [⚙️ Environment Setup](#Environment-Setup)
+- [📦 Requirements](#Requirements)
+- [🎯 Development Plan](#Development-Plan)
+- [🧠 Transformer & VLM Concepts Applied](#Transformer-&-VLM-Concepts-Applied)
+- [🎯 First Coding Goals](#First-Coding-Goals)
+- [✅ Expected Final Result](#Expected-Final-Result)
+- [🔮 Future Improvements](#Future-Improvements)
+- [📌 Final Notes](#Final-Notes)
 
 ---
 
